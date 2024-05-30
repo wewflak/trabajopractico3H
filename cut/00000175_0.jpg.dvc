@@ -1,0 +1,5 @@
+outs:
+- md5: 814ab8a9f19215e0ef8d23aae76e4a70
+  size: 3306
+  hash: md5
+  path: 00000175_0.jpg
